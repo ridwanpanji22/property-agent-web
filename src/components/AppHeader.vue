@@ -21,8 +21,9 @@ function closeMobileMenu() {
 <header class="sticky top-0 z-50 bg-white/90 dark:bg-gray-950/90 backdrop-blur-md border-b border-gray-100 dark:border-gray-800">
   <nav class="max-w-6xl mx-auto px-4 py-4 flex items-center justify-between">
     <!-- Logo -->
-    <a href="#" class="text-xl font-bold tracking-tight text-primary dark:text-white">
-      {{ COMPANY_NAME }}
+    <a href="#" class="flex items-center gap-3 text-xl font-bold tracking-tight text-primary dark:text-white">
+      <img src="/logo.png" alt="Logo PT Agung Banua Duta Property" class="h-10 w-auto object-contain" />
+      <span class="hidden sm:block">{{ COMPANY_NAME }}</span>
     </a>
 
     <!-- Link & Buttons Area -->

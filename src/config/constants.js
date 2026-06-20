@@ -1,5 +1,5 @@
 // Nomor WhatsApp Admin (format internasional tanpa +)
-export const WA_NUMBER = '62895415474100'
+export const WA_NUMBER = '6281528621357'
 
 // Nama Perusahaan
 export const COMPANY_NAME = 'PT AGUNG BANUA DUTA PROPERTY'
@@ -12,8 +12,8 @@ export const COMPANY_ESTABLISHED = 2015
 
 // Alamat & Kontak
 export const COMPANY_ADDRESS = 'Jl. Sukarelawan RT.009 RW.004 Kel.Sungai Paring, Kec.Martapura Kab.Banjar, Kal-Sel.'
-export const COMPANY_EMAIL = 'info@perusahaan.com'
-export const COMPANY_PHONE = '021-12345678'
+export const COMPANY_EMAIL = 'ptagungbanuaduta@gmail.com'
+export const COMPANY_PHONE = '0815-2862-1357'
 
 // Visi & Misi
 export const COMPANY_VISI =
